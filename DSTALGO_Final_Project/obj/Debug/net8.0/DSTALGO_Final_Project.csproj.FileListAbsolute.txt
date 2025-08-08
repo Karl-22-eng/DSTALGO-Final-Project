@@ -1,0 +1,14 @@
+C:\Users\63927\Downloads\DSTALGO_Final_Project\bin\Debug\net8.0\DSTALGO_Final_Project.exe
+C:\Users\63927\Downloads\DSTALGO_Final_Project\bin\Debug\net8.0\DSTALGO_Final_Project.deps.json
+C:\Users\63927\Downloads\DSTALGO_Final_Project\bin\Debug\net8.0\DSTALGO_Final_Project.runtimeconfig.json
+C:\Users\63927\Downloads\DSTALGO_Final_Project\bin\Debug\net8.0\DSTALGO_Final_Project.dll
+C:\Users\63927\Downloads\DSTALGO_Final_Project\bin\Debug\net8.0\DSTALGO_Final_Project.pdb
+C:\Users\63927\Downloads\DSTALGO_Final_Project\obj\Debug\net8.0\DSTALGO_Final_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\63927\Downloads\DSTALGO_Final_Project\obj\Debug\net8.0\DSTALGO_Final_Project.AssemblyInfoInputs.cache
+C:\Users\63927\Downloads\DSTALGO_Final_Project\obj\Debug\net8.0\DSTALGO_Final_Project.AssemblyInfo.cs
+C:\Users\63927\Downloads\DSTALGO_Final_Project\obj\Debug\net8.0\DSTALGO_Final_Project.csproj.CoreCompileInputs.cache
+C:\Users\63927\Downloads\DSTALGO_Final_Project\obj\Debug\net8.0\DSTALGO_Final_Project.dll
+C:\Users\63927\Downloads\DSTALGO_Final_Project\obj\Debug\net8.0\refint\DSTALGO_Final_Project.dll
+C:\Users\63927\Downloads\DSTALGO_Final_Project\obj\Debug\net8.0\DSTALGO_Final_Project.pdb
+C:\Users\63927\Downloads\DSTALGO_Final_Project\obj\Debug\net8.0\DSTALGO_Final_Project.genruntimeconfig.cache
+C:\Users\63927\Downloads\DSTALGO_Final_Project\obj\Debug\net8.0\ref\DSTALGO_Final_Project.dll
