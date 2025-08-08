@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DSTALGO_Final_Project")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c53307ba19fce292b4252a192d8ea86ad9093330")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8faf5986d254cb4b433e232237e3d202ea67d02d")]
 [assembly: System.Reflection.AssemblyProductAttribute("DSTALGO_Final_Project")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DSTALGO_Final_Project")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

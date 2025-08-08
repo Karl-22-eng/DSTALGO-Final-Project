@@ -4,6 +4,6 @@
     {
         Console.WriteLine("DSTALGO Final Project"); 
 
-        Console.ReadLine();
+        Console.ReadLine(); 
     }
 }
